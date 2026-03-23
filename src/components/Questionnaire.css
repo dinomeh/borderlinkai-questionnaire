@@ -1,5 +1,6 @@
 
 .questionnaire-container {
+  width: 100%; /* Force Fixed Width */
   max-width: 1200px; /* Increased from 800px for wider monitors */
   margin: 0 auto;
   padding: 0.5rem 1rem;
